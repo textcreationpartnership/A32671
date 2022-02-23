@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treaty for the composing of differences, restraining of depredations and establishing of peace in America between the crowns of Great Britain and Spain : concluded at Madrid the 8th/18 day of July in the year of our Lord, 1670 ...</title>
+            <title>Treaties, etc. Spain, 1607 July 8</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32671</idno>
+            <idno type="STC">Wing C3616A</idno>
+            <idno type="STC">ESTC R35944</idno>
+            <idno type="EEBO-CITATION">15580012</idno>
+            <idno type="OCLC">ocm 15580012</idno>
+            <idno type="VID">103914</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32671)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103914)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:78)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treaty for the composing of differences, restraining of depredations and establishing of peace in America between the crowns of Great Britain and Spain : concluded at Madrid the 8th/18 day of July in the year of our Lord, 1670 ...</title>
+                  <title>Treaties, etc. Spain, 1607 July 8</title>
+                  <author>England and Wales.</author>
+                  <author>Spain. Treaties, etc. England and Wales, 1670 July 8.</author>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Foreign relations --  Spain.</term>
+               <term>Spain --  Foreign relations --  England.</term>
+               <term>Great Britain --  Colonies --  America.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103914:1"/>
+            <pb facs="tcp:103914:1"/>
+            <p>A TREATY For the
+<list>
+                  <item>
+                     <hi>Compoſing</hi> of <hi>Differences,</hi>
+                  </item>
+                  <item>
+                     <hi>Reſtraining</hi> of <hi>Depredations,</hi> and</item>
+                  <item>
+                     <hi>Eſtabliſhing</hi> of <hi>Peace</hi>
+                  </item>
+               </list> IN AMERICA, Between the CROWNS of <hi>GREAT BRITAIN</hi>
+and <hi>SPAIN.</hi>
+            </p>
+            <p>Concluded at MADRID the 8th / 18 Day of <hi>July,</hi> in the Year
+of our Lord 1670.</p>
+            <p>
+               <hi>Tranſlated out of LATIN.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>In the <hi>SAVOY,</hi> Printed by the Aſſigns of <hi>John
+Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings Moſt
+Excel<g ref="char:EOLhyphen"/>lent Majeſty, 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treaty">
+            <pb facs="tcp:103914:2"/>
+            <pb n="1" facs="tcp:103914:2"/>
+            <head>A <hi>TREATY,</hi> for the compoſing of Differences,
+reſtraining of Depredations, and the eſtabliſhing of Peace in
+<hi>AME<g ref="char:EOLhyphen"/>RICA,</hi> between the Crowns of Great <hi>Britain</hi> and
+<hi>Spain.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas for many years paſt the good Underſtanding and
+Cor<g ref="char:EOLhyphen"/>reſpondence between the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> and <hi>Spaniſh</hi>
+Nations having been diſturbed in <hi>AMERICA,</hi> It pleaſed the Moſt
+Serene and Powerful Prince <hi>CHARLES</hi> King of <hi>Great Brit<g ref="char:EOLhyphen"/>ain,</hi>
+&amp;c. in order to the Reſtoring and Regula<g ref="char:EOLhyphen"/>ting the ſame, for the future
+to ſend into <hi>Spain</hi> His Envoy Extraordinary Sir <hi>William
+Godolphin</hi> Knight, with full Authority and Power to make any Treaty
+convenient and proper for that end: And likewiſe the Moſt Serene and
+Powerful <hi>CHARLES</hi> King of <hi>Spain,</hi> &amp;c. and the Queen-Regent
+<hi>MARIA-ANNA,</hi> &amp;c. for the carrying on a work of ſo much Piety and
+Publick-Good, <pb n="2" facs="tcp:103914:3"/>
+Deputed on their Part the Earl of <hi>Penaranda,</hi> Councellor of
+State, and Preſident of the <hi>Indies,</hi> to Conferr, Treat, and conclude
+thereupon with the ſaid Sir <hi>William Godolphin:</hi> At length they
+mutually reſolved and agreed upon the Articles of the following Treaty in
+Virtue of their ſeve<g ref="char:EOLhyphen"/>ral Commiſsions.</p>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>FIrſt, It is Agreed between the above-menti<g ref="char:EOLhyphen"/>oned
+Plenipotentiaries Sir <hi>William Godolphin</hi> and the Earl of
+<hi>Penaranda</hi> in the Names of the Moſt Serene Kings reſpectively their
+Maſters, That the Articles of Peace and Allyance made between the Crowns of
+<hi>Great Britain</hi> and <hi>Spain</hi> in <hi>Madrid</hi> on the 13/23 of
+<hi>May</hi> 1667, or any clauſe thereof ſhall in no manner be deemed or
+under<g ref="char:EOLhyphen"/>ſtood to be taken away, or abrogated by this preſent. Treaty; but
+that the ſame ſhall remain perpetually in their ancient force, ſtability
+and vigour, ſo farr forth as they are not contrary or repugnant to this
+preſent Convention and Arti<g ref="char:EOLhyphen"/>cles, or to any thing therein contained.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>THat there be an <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Peace,</hi> true and
+ſin<g ref="char:EOLhyphen"/>cere Amity in <hi>AMERICA,</hi> as in the other parts of the World,
+between the moſt Serene Kings of <hi>Great Britain</hi> and <hi>Spain,</hi>
+their Heirs and Succeſſors, and between the Kingdoms, States, Plantations,
+Colonies, Forts, Cities, Iſlands and <pb n="3" facs="tcp:103914:3"/>
+Dominions, without any diſtinction of Place be<g ref="char:EOLhyphen"/>longing unto
+either of them, and between the People and Inhabitants under their reſpective
+O<g ref="char:EOLhyphen"/>bedience, which ſhall endure from this day for ever, and be obſerved
+inviolably, as well by Land as by Sea and freſh Waters, ſo as to pro<g ref="char:EOLhyphen"/>mote
+each the Welfare and Advantage of the other, and favour and aſſiſt one
+another with mutual Love; and that every where, as well in thoſe remote
+Countries as in theſe which are nearer, the faithful Offices of good
+Neighbour<g ref="char:EOLhyphen"/>hood and Friendſhip may be exerciſed, and encreaſe between
+them.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>ALſo, that for the time to come, all Enmities, Hoſtilities
+and Diſcords between the ſaid Kings their Subjects and Inhabitants,
+ceaſe, and be aboliſhed: And, that both Parties do alto<g ref="char:EOLhyphen"/>gether forbear and
+abſtain from all Plundering, Depredation, Injuries and Infeſtation
+whatſoe<g ref="char:EOLhyphen"/>ver, as well by Land as by Sea, and in freſh-wa<g ref="char:EOLhyphen"/>ters, every
+where.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>THe ſaid Moſt Serene Kings ſhall take care that their
+Subjects do accordingly abſtain from all Force and wrong doing: And they
+ſhall Revoke all Commiſsions and Letters of Repriſal and Mart, or
+otherwiſe containing Li<g ref="char:EOLhyphen"/>cence to take Prizes, of what condition or kind,
+<pb n="4" facs="tcp:103914:4"/>
+ſoever, being to the Prejudice of the one or other of the
+ſaid Kings, or of their Subjects, whether the ſame have been given or
+granted by them unto Subjects or Inhabitants, or unto Strangers; and ſhall
+declare the ſame to be void and of no force, as by this Treaty of Peace they
+are declared ſo to be: And whoſoever ſhall do any thing to the contrary,
+he ſhall be puniſhed not only Crimi<g ref="char:EOLhyphen"/>nally according to the merit of his
+Offence, but ſhall alſo be compell'd to make Reſtitution and Satisfaction
+for the Loſſes to the Parties damnified, requiring the ſame.</p>
+            </div>
+            <div n="5" type="article">
+               <head>V.</head>
+               <p>ANd furthermore, the ſaid Kings ſhall de<g ref="char:EOLhyphen"/>nounce, as by the
+Tenour of theſe Preſents every of them hath and doth Renounce,
+whatſo<g ref="char:EOLhyphen"/>ever League, Confederation, Capitulation, and Intelligence made by
+what manner ſoever in the Prejudice of the one or the other, which doth or
+may repugn againſt this Peace and Concord, and all and ſingular the
+Contents thereof: All which and every of them, ſo farr as they do concern the
+effect aforeſaid, they ſhall annul and make void, and declare to be of no
+force or moment.</p>
+            </div>
+            <div n="6" type="article">
+               <pb n="5" facs="tcp:103914:4"/>
+               <head>VI.</head>
+               <p>THe Priſoners on both ſides, one and all, of what degree or
+condition ſoever, de<g ref="char:EOLhyphen"/>tained by reaſon of any Hoſtilities hitherto
+com<g ref="char:EOLhyphen"/>mitted in <hi>AMERICA</hi> ſhall be forthwith ſet at li<g ref="char:EOLhyphen"/>berty, without
+Ranſom, or any other Price of their Freedom.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII.</head>
+               <p>ALl Offences, Damages, Loſſes, Injuries, which the Nations
+and People of <hi>Great Britain</hi> and <hi>Spain</hi> have at any time
+heretofore, upon what Cauſe or Pretext ſoever ſuffered by each other in
+<hi>America,</hi> ſhall be expunged out of remembrance, and buried in
+Oblivion, as if no ſuch thing had ever paſt.</p>
+               <p>Moreover, It is Agreed, That the Moſt Se<g ref="char:EOLhyphen"/>rene King of
+<hi>Great Britain,</hi> His Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors, ſhall <hi>have, hold,
+keep</hi> and <hi>enjoy</hi> for ever, with plenary <hi>Right</hi> of
+<hi>Soveraignty, Dominion, Poſſeſsion</hi> and <hi>Propriety</hi> all
+thoſe <hi>Lands, Regions, Iſlands, Colonies</hi> and <hi>Places</hi>
+whatſoever, being or ſituated in the <hi>WEST-INDIES,</hi> or in any Part
+of <hi>AMERICA,</hi> which the ſaid King of <hi>Great Britain</hi> and His
+Subjects do at pre<g ref="char:EOLhyphen"/>ſent hold and poſſeſs; So as that in regard thereof,
+or upon any Colour or Pretence whatſoever, Nothing more may or ought to be
+urged, nor any Queſtion or Controver<g ref="char:EOLhyphen"/>ſie <pb n="6" facs="tcp:103914:5"/>
+be ever moved concerning the ſame here<g ref="char:EOLhyphen"/>after.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>THe Subjects and Inhabitants, Merchants, Captains, Maſters of
+Ships, Mariners of the Kingdoms, Provinces and Dominions of each Confederate
+reſpectively, ſhall abſtain and forbear to Sail and Trade in the Ports
+and Havens which have Fortifications, Ca<g ref="char:EOLhyphen"/>ſtles, Magazines or Ware-houſes,
+and in all other places whatſoever poſſeſſed by the other Party in
+the <hi>WEST-INDIES;</hi> to wit, The Subjects of the King of <hi>Great
+Britain</hi> ſhall not Sail unto, and Trade in, the Havens and Pla<g ref="char:EOLhyphen"/>ces which
+the Catholique King holdeth in the ſaid <hi>INDIES:</hi> Nor in like manner
+ſhall the Subjects of the King of <hi>Spain</hi> Sail unto, or Trade in,
+thoſe Places which are Poſſeſſed there by the King of <hi>Great
+Britain.</hi>
+               </p>
+            </div>
+            <div n="9" type="article">
+               <head>IX.</head>
+               <p>BUt, if at any time hereafter either King ſhall think fit to
+grant unto the Subjects of the other any general or particular Licence or
+Priviledges of Navigating unto, and Tra<g ref="char:EOLhyphen"/>ding in, any places under His Obedience
+who ſhall grant the ſame, The ſaid Navigation and Trade ſhall be
+exerciſed and maintained <pb n="7" facs="tcp:103914:5"/>
+according to the Form, Tenour and Effect of the ſaid
+Permiſsions or Priviledges to be allowed and given; For the Security,
+War<g ref="char:EOLhyphen"/>rant and Autority whereof, this preſent Treaty and the Ratification
+thereof ſhall ſerve.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X.</head>
+               <p>IT is alſo Agreed, That in caſe the Subjects and Inhabitants
+of either of the Confederates, with their Shipping (whether publick and of
+Warr, or private and of Merchants) be forced at any time, through ſtreſs of
+Weather, Purſuit of Pyrates and Enemies, or other inconveni<g ref="char:EOLhyphen"/>ence
+whatſoever, for the ſeeking of ſhelter and harbour, to retreat and enter
+into any of the Rivers, Creeks, Bayes, Havens, Roades, Shoars, and Ports
+belonging to the other in <hi>AMERICA,</hi> they ſhall be received and
+treated there with all Humanity and Kindneſs, and enjoy all friendly
+Protection and Help: And it ſhall be lawful for them to refreſh and
+pro<g ref="char:EOLhyphen"/>vide themſelves at Reaſonable, and the Uſual Rates, with Victuals and
+all things Needful, either for the ſuſtenance of their Perſons, or
+reparation of their Ships, and conveniency of their Voyage; And they ſhall in
+no manner be detained or hindred from returning out of the ſaid Ports or
+Roads, but ſhall remove and de<g ref="char:EOLhyphen"/>part <pb n="8" facs="tcp:103914:6"/>
+when and whither they pleaſe, without any let or
+impediment.</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>LIkewiſe, If any Ships belonging to either Confederate, their
+People and Subjects, ſhall within the Coaſts or Dominions of the other
+ſtick upon the Sands, or be Wrack'd, (which God forbid) or ſuffer any
+dammage, the Perſons Shipwrack'd and caſt on the Shore ſhall in no ſort
+be kept Priſoners, but on the contrary all Friendly Aſſiſtance and
+Relief ſhall be Adminiſtred to their Diſtreſs, and Letters of
+Safe-conduct given them for their free and quiet Paſſage thence, and the
+re<g ref="char:EOLhyphen"/>turn of every one to his own Country.</p>
+            </div>
+            <div n="12" type="article">
+               <head>XII.</head>
+               <p>BUt when it ſhall happen, that the Ships of either (as is
+above-mentioned) through danger of the Sea, or other urgent Cauſe, be driven
+into the Ports and Havens of the o<g ref="char:EOLhyphen"/>ther, if they be Three or Four together, and
+may give juſt ground of Suſpition, they ſhall immediately upon their
+arrival acquaint the Governour, or Chief Magiſtrate of the Place with the
+Cauſe of their coming, and <pb n="9" facs="tcp:103914:6"/>
+ſhall ſtay no longer there then the ſaid Go<g ref="char:EOLhyphen"/>vernour or
+Chief Magiſtrate will permit, and ſhall be requiſite for the Furniſhing
+them<g ref="char:EOLhyphen"/>ſelves with Victuals, and Reparation of their Ships: And they ſhall
+alwayes take care not to carry out of their Ships any Goods or Packs,
+expoſing them to Sale, neither ſhall they receive any Merchandize on Board,
+nor do any thing contrary to this Treaty.</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII.</head>
+               <p>BOth Parties ſhall truly and firmly obſerve and execute this
+preſent Treaty, and all and every the matters therein contained, and
+effectually cauſe the ſame to be Obſer<g ref="char:EOLhyphen"/>ved and Performed by the Subjects
+and In<g ref="char:EOLhyphen"/>habitants of either Nation.</p>
+            </div>
+            <div n="14" type="article">
+               <head>XIV.</head>
+               <p>NO Private Injury ſhall in any ſort wea<g ref="char:EOLhyphen"/>ken this Treaty, nor
+beget hatred or diſſentions between the foreſaid Nations, but every one
+ſhall anſwer for his own proper Fact, and be proſecuted thereupon;
+Nei<g ref="char:EOLhyphen"/>ther ſhall one man ſatisfie for the offence of another by Repriſals,
+or other ſuch like odious proceedings, unleſs Juſtice be denied or
+unreaſonably delayed, in which <pb n="10" facs="tcp:103914:7"/>
+caſe it ſhall be lawful for that King, whoſe Subject hath
+ſuffered the Loſs and Injury, to take any Courſe according to the
+<hi>Rules</hi> and <hi>Method</hi> of the Law of <hi>Nations,</hi> untill
+repara<g ref="char:EOLhyphen"/>tion be made to the Sufferer.</p>
+            </div>
+            <div n="15" type="article">
+               <head>XV.</head>
+               <p>THe preſent Treaty ſhall in nothing de<g ref="char:EOLhyphen"/>rogate from any
+Pre-eminence, Right or Dominion of either Confederate in the <hi>American</hi>
+Seas, Channels or Waters, but that they have and retain the ſame in as full
+and ample manner, as may of Right belong unto them: But, it is alwayes to be
+underſtood, that the <hi>Liberty</hi> of <hi>Navigation</hi> ought in no
+manner to be diſturbed, where nothing is committed againſt the Genuine
+Sence and Meaning of theſe Articles.</p>
+            </div>
+            <div n="16" type="article">
+               <head>XVI.</head>
+               <p>LAſtly, The Solemn Ratifications of this preſent Treaty and
+Agreement, made in due form, ſhall be delivered on both ſides, and mutually
+exchanged within the ſpace of four Months from this day; And within eight
+Moneths, to be computed from the ſaid Ex<g ref="char:EOLhyphen"/>change of the Inſtruments, (or
+ſooner if poſ<g ref="char:EOLhyphen"/>ſible) <pb n="11" facs="tcp:103914:7"/>
+they ſhall be Publiſhed in all conveni<g ref="char:EOLhyphen"/>ent places throughout
+the Kingdoms, States, Iſlands and Dominions of both Confederates, as well in
+the <hi>Weſt-Indies</hi> as elſewhere.</p>
+               <closer>
+                  <dateline>In Teſtimony of all and ſingular the Con<g ref="char:EOLhyphen"/>tents hereof,
+We the above-mention<g ref="char:EOLhyphen"/>ed <hi>Plenipotentiaries</hi> have Signed and Sealed this
+preſent Treaty, At <hi>Madrid</hi>
+                     <date>the 8th / 18 Day of <hi>July,</hi> in the Year of Our Lord
+<hi>1670.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>The Count of</hi> Penaranda, L S.</item>
+                        <item>William Godolphin, L S.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:103914:8"/>
+            <head>In the <hi>SAVOY.</hi>
+            </head>
+            <p>Printed by the Aſsigns of <hi>John Bill</hi> and
+<hi>Chriſtopher Barker,</hi> Printers to the Kings Moſt Excellent Majesty,
+<hi>1670.</hi>
+            </p>
+            <pb facs="tcp:103914:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
